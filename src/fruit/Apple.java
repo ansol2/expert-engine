@@ -12,5 +12,7 @@ public class Apple {
 	public void wash() {
 		clean = true;
 	}
-	
+	public void clean() {
+		clean = true;
+	}
 }
